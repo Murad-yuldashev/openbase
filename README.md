@@ -1,8 +1,7 @@
-# openbase
-
-Firebase'ga o'xshash backend platformaning o'quv prototipi.
+# Openbase
+Firebase'ga o'xshash proekt
 
 ## Ishga tushirish
 
-    mise install
-    pnpm install
+     mise install
+     pnpm install
