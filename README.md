@@ -78,6 +78,8 @@ flowchart TB
 
 Requirements: [mise](https://mise.jdx.dev), Docker.
 
+    cp .env.example .env
+    docker compose up -d --wait
     mise install
     pnpm install
     pnpm build
